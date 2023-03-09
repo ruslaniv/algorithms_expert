@@ -1,0 +1,32 @@
+# IMPORTANT!!! - Add dependencies in alphabetical order!!! 
+
+autopep8==2.0.1 # https://pypi.org/project/autopep8/
+black==23.1.0 # https://black.readthedocs.io/en/stable/
+git+https://github.com/krassowski/python-language-server.git@main # https://github.com/krassowski/python-language-server
+isort==5.12.0  # https://pycqa.github.io/isort/
+jupyter-server-mathjax==0.2.6 # https://github.com/jupyter-server/jupyter_server_mathjax
+jupyterlab-code-formatter==1.5.3 # https://github.com/ryantam626/jupyterlab_code_formatter
+jupyterlab-code-snippets==2.2.1 # https://github.com/jupytercalpoly/jupyterlab-code-snippets
+jupyterlab-git==0.41.0 # https://github.com/jupyterlab/jupyterlab-git
+jupyterlab-latex==3.1.0 # https://github.com/jupyterlab/jupyterlab-latex
+jupyterlab-lsp==3.10.2 # https://jupyterlab-lsp.readthedocs.io/en/latest/
+jupyterlab==3.6.1 # https://jupyterlab.readthedocs.io/en/stable/
+jupytext==1.14.4 # https://github.com/mwouts/jupytext
+matplotlib==3.7.0 # https://matplotlib.org/
+mccabe==0.7.0 # https://pypi.org/project/mccabe/
+mypy==1.0.1 # https://github.com/python/mypy
+numpy==1.24.2 # https://numpy.org/
+pandas==1.5.3 # https://pandas.pydata.org/
+pre-commit==3.1.0  # https://github.com/pre-commit/pre-commit
+pycodestyle==2.10.0  # https://pycodestyle.pycqa.org/en/latest/
+pydocstyle==6.3.0  # https://www.pydocstyle.org/en/stable/
+pyflakes==3.0.1  # https://github.com/PyCQA/pyflakes
+pylint==2.16.2  # https://pylint.readthedocs.io/en/latest/
+pytest==7.2.1 # https://docs.pytest.org/en/7.2.x/contents.html
+python-language-server==0.36.2  # https://github.com/palantir/python-language-server
+rope==1.7.0  # https://github.com/python-rope/rope
+scikit-learn==1.2.1 # https://scikit-learn.org/stable/
+scipy==1.10.1 # https://www.scipy.org/
+seaborn==0.12.2 # https://seaborn.pydata.org/
+tqdm==4.65.0  # https://tqdm.github.io/
+yapf==0.32.0  # https://github.com/google/yapf
